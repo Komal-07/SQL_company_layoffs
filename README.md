@@ -4,6 +4,7 @@ SQL Project to analyze the company layoff dataset
 # INTRODUCTION
 This is a SQL project created to have an analysis on the layoff dataset of different companies in the year of 2020, 2021, 2022 and 2023.
 
+# PROCESS
 In this project, I followed the given steps to do the Data Cleaning of the initial dataset 
 * Removing the duplicates
 * Standardizing the data
